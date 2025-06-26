@@ -1,6 +1,12 @@
 Here's how to use this optimization script on your TCL 30z:
 
 ## Installation & Usage:
+Install:
+-- Termux
+Link: https://play.google.com/store/apps/details?id=com.termux
+
+Open up Termux on your TCL 30z
+--------------------------------
 
 1. **Save the script:**
    ```bash
